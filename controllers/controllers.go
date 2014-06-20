@@ -1,8 +1,8 @@
 package controllers
 
 import (
-	"bitbucket.org/skill-im/skillim/views"
 	"fmt"
+	"github.com/t0pep0/4makeup/views"
 	"io/ioutil"
 	"net/http"
 	"os"
