@@ -1,8 +1,8 @@
 package views
 
 import (
-	"bitbucket.org/skill-im/skillim/helpers"
 	"github.com/shaoshing/train"
+	"github.com/t0pep0/4makeup/helpers"
 	"github.com/t0pep0/gold"
 	"log"
 	"net/http"
